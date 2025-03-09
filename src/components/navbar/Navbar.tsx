@@ -115,7 +115,7 @@ const Navbar = () => {
             {/* Social Icons and Mobile Menu Button */}
             <Box sx={{ display: "flex", alignItems: "center" }}>
               <IconButton
-                href="https://github.com/mkiuzzl01"
+                href="https://github.com/mkiuzzal01"
                 target="_blank"
                 rel="noopener noreferrer"
                 sx={{ 
@@ -128,7 +128,7 @@ const Navbar = () => {
                 <Github size={20} />
               </IconButton>
               <IconButton
-                href="https://facebook.com"
+                href="https://facebook.com/mkiuzzal01"
                 target="_blank"
                 rel="noopener noreferrer"
                 sx={{ 
@@ -141,7 +141,7 @@ const Navbar = () => {
                 <Facebook size={20} />
               </IconButton>
               <IconButton
-                href="https://linkedin.com"
+                href="https://linkedin.com/md-khairul-islam01"
                 target="_blank"
                 rel="noopener noreferrer"
                 sx={{ 
@@ -245,7 +245,7 @@ const Navbar = () => {
             p: 2 
           }}>
             <IconButton
-              href="https://github.com/mkiuzzl01"
+              href="https://github.com/mkiuzzal01"
               target="_blank"
               rel="noopener noreferrer"
               sx={{ color: "#9B7EBD" }}
@@ -253,7 +253,7 @@ const Navbar = () => {
               <Github size={20} />
             </IconButton>
             <IconButton
-              href="https://facebook.com"
+              href="https://facebook.com/mkiuzzal01"
               target="_blank"
               rel="noopener noreferrer"
               sx={{ color: "#9B7EBD" }}
@@ -261,7 +261,7 @@ const Navbar = () => {
               <Facebook size={20} />
             </IconButton>
             <IconButton
-              href="https://linkedin.com"
+              href="https://linkedin.com/md-khairul-islam01"
               target="_blank"
               rel="noopener noreferrer"
               sx={{ color: "#9B7EBD" }}
